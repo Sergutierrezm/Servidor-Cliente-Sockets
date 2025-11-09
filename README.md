@@ -28,10 +28,10 @@ La calculadora soporta **suma**, **resta** y **multiplicación** entre números 
 ## Cómo ejecutar el proyecto
 
 **1. Clonar el repositorio**
-Compilar los archivos (si no usas NetBeans):
-Iniciar el servidor:
-Ejecutar el cliente:
-Enviar una operación desde el cliente (por ejemplo):
+**2. Compilar los archivos (si no usas NetBeans):**
+**3. Iniciar el servidor:Ejecutar el cliente:**
+**4. Ejecutar el cliente:**
+**5. Enviar una operación desde el cliente (por ejemplo): 7*3**
 
 
 ## Autor
